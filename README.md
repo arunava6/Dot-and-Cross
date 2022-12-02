@@ -1,5 +1,5 @@
 # Dot-and-Cross
-Dot and Cross in python 
+# Dot and Cross in python 
 
 
 import numpy
